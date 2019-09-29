@@ -1,8 +1,9 @@
 
 <html>
 <body>
-<from action="user" method="get">
-<input type="text" name="username"><br>
+<form action="user" method="get">
+<input type="text" placeholder="username" name="username"><br>
+<input type="password" placeholder="password" name="password"><br>
 <input type="Submit">
 </form>
 </body>
